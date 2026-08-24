@@ -26,13 +26,13 @@ CS student working across software development, cybersecurity, and product build
 
 ### `> projects`
 
-Currently building web applications, security tools, and product experiments. More shipping soon.
+Currently building web applications, security tools, and product experiments. Shipping projects as they become worth showing.
 
 ---
 
 ### `> learning`
 
-Backend development · Linux · Networking · Web security · Cybersecurity · CTFs
+Backend development · Linux · Networking · Web security · Security fundamentals · CTFs
 
 ---
 
@@ -43,6 +43,14 @@ Backend development · Linux · Networking · Web security · Cybersecurity · C
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=NicoCipher&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
 &nbsp;&nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoCipher&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicoCipher/NicoCipher/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NicoCipher/NicoCipher/output/github-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/NicoCipher/NicoCipher/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
