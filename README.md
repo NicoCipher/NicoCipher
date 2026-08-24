@@ -1,154 +1,143 @@
-```
-$ whoami
-```
+<div align="center">
 
-# nicocipher
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=nicocipher" alt="nicocipher" />
 
-CS student building across software, security, design, and entrepreneurship.
+<br/>
 
-I build web projects, explore how systems work, design interfaces, and use photography to sharpen how I see details. Currently focused on building practical skills through real projects.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1200&color=8B949E&center=true&vCenter=true&repeat=true&width=440&height=30&lines=Computer+Science+Student;Web+Developer;Cybersecurity+Learner;Designer+%26+Photographer;Building+ideas+into+products" alt="Typing SVG" />
 
-`build → learn → break → understand → improve`
+<br/><br/>
 
----
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-coming_soon-0d1117?style=flat-square&logo=googlechrome&logoColor=58A6FF" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-connect-0d1117?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/Email-contact-0d1117?style=flat-square&logo=gmail&logoColor=58A6FF" alt="Email" />
+</a>
 
-## ▸ currently
+</div>
 
-**Building**
-- Web applications with React / Next.js
-- Portfolio and side projects from idea to deployment
-- Small product and SaaS experiments
-
-**Learning**
-- JavaScript / TypeScript
-- Backend development with Node.js, APIs, and databases
-- Linux and networking fundamentals
-- Web security and cybersecurity fundamentals
-- CTF-style problem solving
-
-**Exploring**
-- Open source
-- Secure software development
-- Product engineering
-- Startup ideas worth shipping
+<br/>
 
 ---
 
-## ▸ tech
+### `> about`
 
-| Area | Technologies |
-|---|---|
-| **Languages** | HTML · CSS · JavaScript · Python |
-| **Frontend** | React · Next.js · Tailwind CSS |
-| **Backend** | Node.js · REST APIs · Databases *(learning)* |
-| **Tools** | Git · GitHub · VS Code · Linux |
-| **Security** | Networking · Web Security · CTFs *(learning)* |
+CS student working across software development, cybersecurity, and product building.
+I also bring graphic design and photography into how I think about interfaces and detail.
+Currently focused on building real projects and developing strong technical foundations.
 
 ---
 
-## ▸ projects
+### `> tech`
 
-> Real builds over tutorial clones.
+<div align="center">
+<br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,git,github,linux,vscode&theme=dark" alt="Tech Stack" />
 
-**Project Name**
-Short description explaining what the project does and why you built it.
-
-`Stack:` React · Tailwind · Node.js
-`Status:` Building
-[Repository](#) · [Live Demo](#)
-
-</td>
-<td width="50%" valign="top">
-
-**Project Name**
-Short description explaining the problem or idea behind the project.
-
-`Stack:` Next.js · API · Database
-`Status:` Building
-[Repository](#) · [Live Demo](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Project Name**
-Short description focused on the main feature or technical challenge.
-
-`Stack:` JavaScript · CSS
-`Status:` Completed
-[Repository](#) · [Live Demo](#)
-
-</td>
-<td width="50%" valign="top">
-
-**Project Name**
-Short description of the tool, experiment, or security-related project.
-
-`Stack:` Python · Linux
-`Status:` Building
-[Repository](#)
-
-</td>
-</tr>
-</table>
+<br/><br/>
+</div>
 
 ---
 
-## ▸ security
+### `> learning`
 
-Building strong foundations before chasing advanced tools.
+<div align="center">
 
-Currently studying:
+`Backend Development` · `Linux` · `Networking` · `Web Security` · `Cybersecurity` · `CTFs`
 
-- Linux and command-line workflows
-- Networking fundamentals — TCP/IP, DNS, HTTP
-- Web security fundamentals
-- Common web vulnerabilities
-- CTF-style problem solving
-- Security tools and methodology
-
-My goal is to understand systems deeply enough to build them better and secure them properly.
+</div>
 
 ---
 
-## ▸ creative
+### `> projects`
 
-Outside code, I work with graphic design and photography.
+<div align="center">
+<br/>
 
-Both influence how I build products:
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  REPLACE the repo names below with your actual repos.       ║ -->
+<!-- ║  Each card auto-pulls the repo description from GitHub.     ║ -->
+<!-- ║                                                             ║ -->
+<!-- ║  Format:                                                    ║ -->
+<!-- ║  github-readme-stats.vercel.app/api/pin/                    ║ -->
+<!-- ║    ?username=NicoCipher                                     ║ -->
+<!-- ║    &repo=YOUR-REPO-NAME                                    ║ -->
+<!-- ║    &theme=github_dark&hide_border=true&bg_color=0d1117      ║ -->
+<!-- ║    &title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9  ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-- **Design** improves how I think about interfaces and usability.
-- **Photography** trains attention to composition, detail, and visual hierarchy.
+<a href="https://github.com/NicoCipher/REPO-NAME-1">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NicoCipher&repo=NicoCipher&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Project 1" />
+</a>
+&nbsp;
+<a href="https://github.com/NicoCipher/REPO-NAME-2">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NicoCipher&repo=NicoCipher&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Project 2" />
+</a>
 
-Good software is not only functional — it should also feel intentional.
+<br/><br/>
+
+<a href="https://github.com/NicoCipher/REPO-NAME-3">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NicoCipher&repo=NicoCipher&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Project 3" />
+</a>
+&nbsp;
+<a href="https://github.com/NicoCipher/REPO-NAME-4">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NicoCipher&repo=NicoCipher&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Project 4" />
+</a>
+
+<br/><br/>
+</div>
 
 ---
 
-## ▸ github
+### `> stats`
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=nicocipher&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicocipher&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top languages" />
-</p>
+<div align="center">
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NicoCipher&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoCipher&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicoCipher/NicoCipher/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NicoCipher/NicoCipher/output/github-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/NicoCipher/NicoCipher/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+<br/>
+</div>
 
 ---
 
-## ▸ connect
+### `> security`
 
-| | |
-|---|---|
-| **Portfolio** | *coming soon* |
-| **LinkedIn** | [add your link](#) |
-| **Email** | [add your email](mailto:) |
-| **X / Twitter** | [add your handle](#) |
+Building foundations — not claiming expertise.
+
+`Linux` · `TCP/IP` · `DNS / HTTP` · `Web Security` · `CTFs`
+
+Currently studying how systems work so I can build them more securely.
 
 ---
+
+### `> creative`
+
+Graphic design and photography shape how I approach interfaces, products, composition, and detail — good software should feel as intentional as it is functional.
+
+---
+
+<div align="center">
 
 ```
 $ learn && build && ship
 ```
+
+</div>
