@@ -10,7 +10,7 @@
 
 ### `> about`
 
-CS student working across software development, cybersecurity, and product building. I bring graphic design and photography into how I approach interfaces and detail. Currently focused on building practical skills through real projects.
+CS student building practical software, learning how systems work and break, and using design to make products feel intentional.
 
 ---
 
@@ -52,7 +52,7 @@ Backend development · Linux · Networking · Web security · Security fundament
 
 ### `> security`
 
-Building foundations — not claiming expertise. Studying Linux, TCP/IP, DNS, HTTP, and web security so I can build systems more securely.
+Building security foundations through Linux, networking, web security, and CTF-style problem solving.
 
 ---
 
